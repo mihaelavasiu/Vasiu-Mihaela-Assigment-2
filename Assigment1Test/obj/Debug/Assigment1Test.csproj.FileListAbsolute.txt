@@ -1,0 +1,3 @@
+M:\PS\Laborator2-tema\Assigment1\Assigment1Test\obj\Debug\Assigment1Test.csprojResolveAssemblyReference.cache
+M:\PS\Laborator2-tema\Assigment1\Assigment1Test\obj\Debug\Assigment1Test.Properties.Resources.resources
+M:\PS\Laborator2-tema\Assigment1\Assigment1Test\obj\Debug\Assigment1Test.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+M:\PS\Laborator2-tema\Assigment1\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+M:\PS\Laborator2-tema\Assigment1\UnitTest\bin\Debug\UnitTest.dll
+M:\PS\Laborator2-tema\Assigment1\UnitTest\bin\Debug\UnitTest.pdb
+M:\PS\Laborator2-tema\Assigment1\UnitTest\bin\Debug\Assigment1.exe
+M:\PS\Laborator2-tema\Assigment1\UnitTest\bin\Debug\MySql.Data.dll
+M:\PS\Laborator2-tema\Assigment1\UnitTest\bin\Debug\Assigment1.pdb
+M:\PS\Laborator2-tema\Assigment1\UnitTest\obj\Debug\UnitTest.dll
+M:\PS\Laborator2-tema\Assigment1\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Ela\Desktop\Assigmnent2-master\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\Assigmnent2-master\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Ela\Desktop\Assigmnent2-master\UnitTest\obj\Debug\UnitTest.pdb
